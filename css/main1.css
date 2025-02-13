@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+.box1{
+    background-color: lightcoral;
+    border: 3px solid white;
+    color: white;
+    text-align: center;
+}
